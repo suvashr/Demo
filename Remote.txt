@@ -1,2 +1,4 @@
 This is just for learning. 
-Adding the third line
+Second line at correct place
+
+Adding again the second line
